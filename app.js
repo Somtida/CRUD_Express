@@ -1,5 +1,5 @@
 'use strict';
-const PORT = 8000;
+const PORT = process.env.PORT || 8000;
 const path = require('path');
 const express = require('express');
 const Msg = require('./message.js');
