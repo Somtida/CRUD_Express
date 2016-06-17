@@ -1,0 +1,9 @@
+body{
+  height: 500px;
+  text-align: center;
+  background: linear-gradient(to bottom right, #00ffff, #00bfff);
+}
+.container{
+  background-color: #000;
+  border-radius: 4px;
+}
